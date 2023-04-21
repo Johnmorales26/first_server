@@ -1,0 +1,25 @@
+{
+  "name": "dwpc1-2023a",
+  "version": "1.0.0",
+  "description": "Proyecto de aprendizaje de la materia de Pila Completa 1",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": "18.x",
+    "npm": "9.x"
+  },
+  "scripts": {
+    "start": "node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "itgam"
+  ],
+  "author": "@johnmorales",
+  "license": "MIT"
+}
